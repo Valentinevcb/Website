@@ -27,13 +27,11 @@ nav{
     background-color: #fdda00;
 }
 
-#footer1{
+footer{
     background-color: #28c8ff;
-    display: flex;
-    justify-content: space-evenly;
 }
 
-.footer2{
+.footer1{
     background-color: white;
     margin:20px;
     border: 3px solid black; 
@@ -42,7 +40,7 @@ nav{
     flex-direction: column;
 }
 
-.footer3{
+.footer2{
     background-color: #fdda00;
     margin: 20px;
     border: 10px solid transparent; 
@@ -51,7 +49,7 @@ nav{
     align-items: baseline;
 }
 
-#footer4{
+#footer3{
     background-color: #fdda00;
     margin: 20px;
     border: 10px solid transparent; 
@@ -71,7 +69,6 @@ nav{
     margin: 20px;
     border: 10px solid transparent; 
     border-radius: 40px;
-    width: 400px;
 }
 
 .mail{
